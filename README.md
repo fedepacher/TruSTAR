@@ -16,7 +16,7 @@ all files import extractor.py funtions
 contains JSON properties to be found on repository files
 
 # info.txt 
-contains repository information to extract list of JSON files name, raw repository information to get JSON data of github repository. Contains filename that will be created in DataFile folder that gets JSON files list. Contains extension filename.
+contains repository information to extract list of JSON files name, raw repository information to get JSON data from github repository. Contains the filename that will be created in DataFile folder that gets the list of JSON files. Contains extension filename.
 
 # info_label.txt 
 contains info.txt labels
