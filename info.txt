@@ -1,0 +1,1 @@
+https://github.com/mitre/cti/tree/,https://raw.githubusercontent.com/mitre/cti/,master/,enterprise-attack/attack-pattern/,.json,DataFile,files.txt,.txt
